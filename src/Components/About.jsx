@@ -24,7 +24,7 @@ const imageAltText = "Wood Background";
  * Sort description that expands on your title on the Home component.
  */
 const description =
-  "I'm a UndeRgraduate student studying at Pragati Engineering College. I enjoy creating unique and simplistic user interfaces in creative ways.";
+  "I'm a Undergraduate student studying at Pragati Engineering College. I enjoy creating unique and simplistic user interfaces in creative ways.";
 
 /**
  * List of some of skills or technologies you work on, are learning,
